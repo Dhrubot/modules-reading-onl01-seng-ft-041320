@@ -1,1 +1,4 @@
-class Meta
+class MetaDancing 
+  
+  def 
+end
