@@ -1,4 +1,6 @@
 class MetaDancing 
   
-  def 
+  def metadata
+    
+  end
 end
